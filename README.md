@@ -1,4 +1,4 @@
-**Genomic Data Science Specialization
+**Genomic Data Science Specialization< br / > 
 **Johns Hopkins University
 
 Done without code (easy mostly theoritical and basic Python)
