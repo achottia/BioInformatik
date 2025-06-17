@@ -1,10 +1,10 @@
 # **Genomic Data Science Specialization**  
 ## **Johns Hopkins University**  
 
-<ins>Done without code</ins> (easy, mostly theoretical and basic Python)
-- Introduction to Genomic Technologies
-- Python for Genomic Data Science
-- Algorithms for DNA Sequencing
+<ins>Done</ins> 
+- Introduction to Genomic Technologies (easy, mostly theoretical and basic Python)
+- Python for Genomic Data Science (easy, mostly theoretical and basic Python)
+- Algorithms for DNA Sequencing (quite challenging)
 ##
 <ins>Currently suffering</ins>
 - Command Line Tools for Genomic Data Science
