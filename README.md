@@ -4,11 +4,12 @@
 <ins>Done without code</ins> (easy, mostly theoretical and basic Python)
 - Introduction to Genomic Technologies
 - Python for Genomic Data Science
-##
-<ins>Currently suffering</ins>
 - Algorithms for DNA Sequencing
 ##
-<ins>Closely</ins>
+<ins>Currently suffering</ins>
 - Command Line Tools for Genomic Data Science
+
+##
+<ins>Closely</ins>
 - Bioconductor for Genomic Data Science
 - Statistics for Genomic Data Science
